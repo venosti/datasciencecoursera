@@ -1,2 +1,2 @@
 # datasciencecoursera
-repository for week 2 assignment 
+The Data Scientist's Toolbox: Course Project
