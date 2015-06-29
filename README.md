@@ -1,2 +1,2 @@
 # datasciencecoursera
-repository for week 1 assignment 
+repository for week 2 assignment 
